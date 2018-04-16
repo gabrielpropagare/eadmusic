@@ -714,7 +714,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/ogoxb30-4-2000x1408.png",
+                "image": "@PROJECT_PATH@/assets/images/ogoxb30-5-2000x1408.png",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
