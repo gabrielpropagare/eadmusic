@@ -36,7 +36,7 @@
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-ead-music-5-06-128x128.png",
     "noImageResize": "",
     "google-analytics": ""
   },
@@ -714,7 +714,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/ogoxb30-3-2000x1408.png",
+                "image": "@PROJECT_PATH@/assets/images/ogoxb30-2-2000x1408.png",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
