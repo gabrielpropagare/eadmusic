@@ -714,7 +714,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/child-singing-loud-shutterstock-75982056-1000x667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/child-singing-loud-shutterstock-75982057-1000x667.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
