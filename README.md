@@ -1,2 +1,0 @@
-# eadmusic
-GitHub Pages
